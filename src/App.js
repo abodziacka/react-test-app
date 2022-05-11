@@ -13,6 +13,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <button onClick={handleShowAlert}>Hello React</button>
+        <a href="https://github.com/abodziacka/react-test-app" style={{color: "pink"}}>Link do Github</a>
         <a
           className="App-link"
           href="https://reactjs.org"
